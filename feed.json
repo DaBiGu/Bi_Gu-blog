@@ -1,0 +1,32 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "大笔谷的小站",
+  "home_page_url": "https://dabigu.cn/",
+  "feed_url": "https://dabigu.cn/feed.json",
+  "description": "欢迎光临",
+  "icon": "https://valaxy.site/valaxy-logo.png",
+  "favicon": "https://dabigu.cn/favicon.svg",
+  "authors": [
+    {
+      "name": "DaBiGu",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://dabigu.cn/posts/hello-valaxy",
+      "url": "https://dabigu.cn/posts/hello-valaxy",
+      "title": "Hello, Valaxy!",
+      "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://dabigu.cn/posts/hello-valaxy\" target=\"_blank\">https://dabigu.cn/posts/hello-valaxy</a> 阅读全文。</p>",
+      "date_published": "2022-04-01T00:00:00.000Z",
+      "date_modified": "2022-04-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "DaBiGu",
+          "url": "https://valaxy.site"
+        }
+      ],
+      "attachments": []
+    }
+  ]
+}
